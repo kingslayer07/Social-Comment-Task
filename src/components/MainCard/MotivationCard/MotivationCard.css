@@ -1,0 +1,74 @@
+.outer-cart{
+    width: 850px;
+    height: 670px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    /* padding-top: 2px; */
+    /* padding-bottom: 5px; */
+    margin-right: 15px;
+    /* margin-left: 290px; */
+    background-color: #222023;
+    border-radius: 20px;
+    overflow: auto;
+    /* padding-right: 20px; */
+}
+.content{
+    margin-left: 45px;
+    color: white;
+}
+.avatars{
+    /* margin-left: 600px; */
+    /* margin-top: 1px; */
+    margin-top: 20px;
+    margin-left: 350px;
+}
+.header{
+    margin-top: 10px;
+    flex-direction: row;
+    /* justify-content: space-between; */
+    display: flex;
+}
+.categories{
+    display: flex;
+    padding: 0;
+    background: transparent;
+    border: none;
+    font-size: 12px;
+
+}
+li{
+    list-style-type: none;
+}
+.link-btn {
+   height: fit-content;
+    /* margin-right: 20px; */
+    background: transparent;
+    border-color: transparent;
+    /* font-size: 1rem; */
+    color: white;
+    text-transform: capitalize;
+    letter-spacing: 0.5px;
+    /* width:fit-content; */
+    /* text-align: center; */
+     /* display: block; */
+    padding: 1rem ;
+    /* padding-bottom: 30px; */
+  }
+  .all{
+      border-bottom:1px solid palevioletred ;
+  }
+  .loginButton{
+   /* border-radius: 10px;
+   
+   border-bottom-style:groove;
+            border-bottom-width: 1px;
+            width: fit-content;
+            border-bottom-color: white;
+   height: fit-content; */
+   border: 1px solid palevioletred;
+    border-radius: 3px;
+        /* display: block; */
+    padding: .5rem 1rem;
+    background-color: palevioletred;
+   
+}

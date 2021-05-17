@@ -1,0 +1,11 @@
+.outer-card{
+    background-color: #37373A;
+    width: 1172px;
+    height: 700px;
+    margin-left: 78px;
+    margin-top: 74px;
+    margin-bottom: 74px;
+    border-radius: 20px;
+    overflow: auto;
+    display: flex;
+}
