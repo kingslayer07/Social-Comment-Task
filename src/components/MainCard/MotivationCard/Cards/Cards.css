@@ -25,6 +25,20 @@
     font-weight: 600;
     color:white;
 }
+.play-icon1{
+    display: flex;
+    width: 35px;
+    height: 35px;
+    margin-top: 155px;
+    margin-left: 20px;
+     background-color: white;
+    border-radius: 50%;   
+    border: 0.5px solid white;
+}
+.play{
+    margin: auto;
+  width: 50%;
+}
 .card2{
     width: 210px;
     border-radius: 20px;
@@ -39,6 +53,16 @@
     max-width: 122px;
     font-weight: 600;
     color:white;
+}
+.play-icon2{
+    display: flex;
+    width: 35px;
+    height: 35px;
+    margin-top: 80px;
+    margin-left: 140px;
+     background-color: white;
+    border-radius: 50%;   
+    border: 0.5px solid white;
 }
 .card3{
     width: 210px;

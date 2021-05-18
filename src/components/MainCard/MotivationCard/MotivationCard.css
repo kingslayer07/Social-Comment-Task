@@ -27,6 +27,7 @@
     flex-direction: row;
     /* justify-content: space-between; */
     display: flex;
+    overflow: auto;
 }
 .categories{
     display: flex;
@@ -71,4 +72,27 @@ li{
     padding: .5rem 1rem;
     background-color: palevioletred;
    
+}
+.add-button{
+    /* display: flex; */
+    width: 42px;
+    height: 42px;
+    /* margin-top: 155px; */
+    margin-top: 20px;
+    margin-left: 40px;
+     /* background-color: white; */
+    border-radius: 50%;   
+    border: 1px solid palevioletred;
+    color: palevioletred;
+    /* overflow: auto; */
+    /* text-align: center; */
+}
+.plus{
+font-size: 35px;
+line-height: 33px;
+/* margin-top: 10px; */
+/* margin-left: 8px; */
+/* margin-bottom: 15px; */
+text-align: center;
+  
 }

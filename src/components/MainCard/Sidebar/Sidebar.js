@@ -6,7 +6,7 @@ import {  faRocket } from '@fortawesome/free-solid-svg-icons'
 import Avatar from '@material-ui/core/Avatar';
 const Sidebar = () => {
     return (
-        <div className='sidebar'>
+        <div data-testid="sidebar" className='sidebar'>
             <div ><h1 className='icon'>B</h1></div>
             <div className='avatar'>
                  <Avatar alt="Travis Howard" src="https://64.media.tumblr.com/00f2ce14e568451d37847c46e647c1f1/tumblr_inline_o16i5tSRqg1qlr65v_500.jpg" />
@@ -35,7 +35,11 @@ const Sidebar = () => {
             </div>
 
 
-        <div className='logout'>Logout</div>
+        <div className='logout'>
+            Logout 
+        </div>
+          
+        
 
 
         </div>
