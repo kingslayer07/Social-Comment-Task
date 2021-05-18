@@ -2,7 +2,7 @@
     /* max-height: ; */
     margin-top: 50px;
     display: flex;
-    /* max-height:inherit; */
+    max-height:inherit;
 }
 .row1{
     display: flex;
@@ -15,7 +15,7 @@
     overflow: auto;
     height: 400px;
     background-position: 50% 50%;
-    background-image: url('https://media.istockphoto.com/vectors/abstract-creative-concept-vector-background-for-web-and-mobile-vector-id1094610280?k=6&m=1094610280&s=612x612&w=0&h=u7vy7LLxq8gTDZaRBOX_hX9XL-0pvLsTQn0l25hjtAI=');
+    background-image: url('https://img.wallpapersafari.com/tablet/2560/1700/72/12/fwCW3c.jpg');
 }
 .card1-text{
      margin-left: 25px;
