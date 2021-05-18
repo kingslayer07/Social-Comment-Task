@@ -1,5 +1,5 @@
 import React from 'react'
-import Green from './images/Green.jpg'
+// import Green from './images/Green.jpg'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {  faPlay } from '@fortawesome/free-solid-svg-icons'
 import './Cards.css'
